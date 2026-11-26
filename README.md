@@ -22,6 +22,9 @@
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+<a href="https://scholar.google.com/citations?user=z4umgPEAAAAJ">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
 
 </div>
 
