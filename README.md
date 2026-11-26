@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b0f19,50:0891b2,100:7c3aed&height=220&section=header&text=Prateek%20Singh&fontColor=ffffff&fontSize=54&fontAlignY=42&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%C3%97%20Data%20Analyst&descAlignY=64&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Turning+data+into+decisions;Building+models+that+generalize;EDA+%E2%86%92+Features+%E2%86%92+Model+%E2%86%92+Insights;Python+%7C+SQL+%7C+Deep+Learning+%7C+Dashboards" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Turning+data+into+decisions;EDA+%E2%86%92+Features+%E2%86%92+Model+%E2%86%92+Insights;Python+%7C+SQL+%7C+Deep+Learning+%7C+Dashboards" alt="typing" />
 
 <br/><br/>
 
