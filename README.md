@@ -16,10 +16,10 @@
 <a href="https://linkedin.com/in/prateek-singh-5331a9314">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:prateek6394121233singh@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/u/PrateekSingh27">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://scholar.google.com/citations?user=z4umgPEAAAAJ">
@@ -65,6 +65,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PrateekSingh27&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://leetcard.jacoblin.cool/PrateekSingh27?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
 
 <div align="center">
